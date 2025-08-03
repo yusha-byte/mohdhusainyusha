@@ -14,6 +14,7 @@ This repository hosts the AI-Powered Resume and Cover Letter Generator, a cuttin
 To set up the AI-Powered Resume and Cover Letter Generator, follow these steps:
 
 # Clone the repository:
+https://github.com/yusha-byte/mohdhusainyusha.git
 ```
 
 ```
@@ -41,4 +42,5 @@ This project is developed by **M.G.Jillani Mughal at Jillani SoftTech**. Special
 
 # License
 This project is licensed under the **MIT License**. See the LICENSE file for more details.
+
 
