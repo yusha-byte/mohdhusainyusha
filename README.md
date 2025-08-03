@@ -1,5 +1,4 @@
-### AI-Powered Resume and Cover Letter Generator Developed By Mohd Husain Yusha
-This repository hosts the AI-Powered Resume and Cover Letter Generator, a cutting-edge tool developed by **Jillani SoftTech** and spearheaded by our Sr.Data Scientist and ML Engineer, M.G.Jillani Mughal. The application leverages machine learning and natural language processing techniques to assist users in creating tailored resumes and cover letters.
+
 
 # Features
 . Custom Resume Generation: Generate personalized resumes based on user input.
@@ -42,5 +41,6 @@ This project is developed by **M.G.Jillani Mughal at Jillani SoftTech**. Special
 
 # License
 This project is licensed under the **MIT License**. See the LICENSE file for more details.
+
 
 
